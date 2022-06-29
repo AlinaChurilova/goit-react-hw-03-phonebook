@@ -1,0 +1,67 @@
+.Form {
+    display: block;
+}
+
+.Label {
+    display: block;
+    margin-top: 8px;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.03em;
+}
+
+.Input {
+    display: block;
+    margin-top: 6px;
+}
+
+.Button {
+    display: block;
+    margin-top: 15px;
+    color: white;
+    background-color: #2196f3;
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+    -wekit-box-shadow: 0px 4px 4px rgb(0 0 0 / 15%);
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 15%);
+    border-radius: 8px;
+    border-color: #2196f3;
+}
+
+.Container {
+    padding-left: 20px;
+}
+
+.ListItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.List {
+    width: 200px;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.BtnDelate {
+    display: block;
+    color: white;
+    background-color: #2196f3;
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+    border-color: #2196f3;
+}
